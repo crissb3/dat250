@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Sep 05 11:08:18 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-5d86-0351-00000f477b98 
+on database directory C:\Users\criss\eclipse-workspace\de.vogella.jpa.simple\databases\simpleDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Software/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\criss\eclipse-workspace\de.vogella.jpa.simple
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
