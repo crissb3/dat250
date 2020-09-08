@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 08 14:17:07 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-6da5-f78a-00000f3d5608 
+on database directory C:\Software\db-derby-10.15.2.0-bin\creditcardDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Software/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\criss\eclipse-workspace\creditcard
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
