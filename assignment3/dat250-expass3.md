@@ -1,6 +1,6 @@
 ## Assignment 3
 
-#### Technical issues: 
+### Technical issues: 
 The signature file did not match the installer hash. Had to change the "4.4.0" to "4.4.1" in this url: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-4.4.0-signed.msi.sha256  
 Other than that there were no problems. 
 
