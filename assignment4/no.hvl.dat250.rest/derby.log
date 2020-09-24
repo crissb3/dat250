@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 25 00:02:54 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-c224-0200-00000f345200 
+on database directory C:\Software111\db-derby-10.15.2.0-bin\expass4Db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Software111/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Expass\no.hvl.dat250.rest
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
