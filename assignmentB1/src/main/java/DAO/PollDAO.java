@@ -61,4 +61,6 @@ public class PollDAO implements Dao<Poll>{
         em.remove(p);
         em.getTransaction().commit();
     }
+
+
 }

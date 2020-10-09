@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Tue Oct 06 11:03:44 CEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-fd26-f9fd-00000f21a400 
+Wed Sep 30 21:05:57 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0174-e068-2a1b-00000f37a950 
 on database directory C:\Software111\db-derby-10.15.2.0-bin\pollDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
 Loaded from file:/C:/Software111/db-derby-10.15.2.0-bin/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=14.0.2+12-46
-user.dir=C:\Github\dat250\assignmentB1
+user.dir=C:\Github\dat250\Prosjekt
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
